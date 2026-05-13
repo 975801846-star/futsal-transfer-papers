@@ -1,6 +1,6 @@
 # 📚 五人制→足球技能迁移 · 论文知识库
 
-> 更新时间：2026-05-10 | 共 7 篇论文（4 篇已精读）
+> 更新时间：2026-05-13 | 共 8 篇论文（5 篇已精读）
 
 ---
 
@@ -107,12 +107,45 @@
 
 ---
 
-### 5-7. 待补充的论文
+### 5. 定性研究：The Role of Futsal in Football Talent Development
+
+| 字段 | 内容 |
+|------|------|
+| 作者 | Yiannaki et al. (2025) |
+| 来源 | Science & Sports (Elsevier) |
+| 原文 | [UCLan Repository](https://knowledge.lancashire.ac.uk/id/eprint/59082/1/59082%20Yiannaki%20et%20al.%20VOR.pdf) |
+| 本地PDF | `全文PDF/Yiannaki_2025_Futsal_Talent_Development.pdf` ✅ |
+
+**中文摘要：** 定性研究，采访 10 位持双证（五人制+十一人制）精英教练，探索五人制对足球人才发展的潜在益处。
+
+**英文摘要：** Qualitative study interviewing 10 elite coaches qualified in both futsal and football. Findings suggest futsal provides useful development tool for variety in receptions, ball manipulations, and scanning behaviours, with skill transfer perceived as likely.
+
+**🔑 关键发现：**
+- 🎙️ 10 位双证精英教练半结构化访谈
+- 🔄 技能迁移被资深教练感知为高度可能
+- 👁️ 五人制有利于接球变化、控球操作、扫描行为发展
+
+**🔬 方法论定位：** 定性研究 · 半结构化访谈 · 主题分析 · pp.1-9
+
+**📖 引用：**
+```bibtex
+@article{yiannaki2025role,
+  title={The role of futsal in football talent development: A qualitative analysis of expert coach perceptions},
+  author={Yiannaki, A and others},
+  year={2025},
+  journal={Science \& Sports},
+  publisher={Elsevier},
+  doi={10.1016/j.scispo.2025.01.003}
+}
+```
+
+---
+
+### 6-7. 待补充的论文
 
 | # | 论文 | 原因 |
 |---|------|------|
-| 5 | Modified Ball Influence on Transfer | 🔒 付费墙 |
-| 6 | Role of Futsal in Talent Development | 🔒 付费墙 |
+| 6 | Modified Ball Influence on Transfer | 🔒 付费墙 |
 | 7 | ResearchGate 归档版 | 已含在 #3 中 |
 
 ---
@@ -121,13 +154,20 @@
 
 ```
 ~/papers/futsal-transfer/
-├── README.md              ← ★ 本文件（总索引，含全部精读）
-├── 摘要精读/               ← 单个精读 .md 文件
+├── README.md                 ← ★ 本文件（总索引，含全部精读）
+├── 论文启动方案_v1.md
+├── 论文修改建议_引用替换.md
+├── 摘要精读/
 │   ├── oppici-uefa.md
 │   ├── review-systematic.md
 │   ├── oppici-constraints.md
-│   └── davids-donor.md
-└── 全文PDF/                ← 已下载的原文 PDF
+│   ├── davids-donor.md
+│   ├── 03_Oppici_etal_2019_Commentary.md
+│   └── 2026-05-13_检索结果.md
+└── 全文PDF/
+    ├── Oppici_UEFA_五人制技能迁移报告.pdf
+    ├── Oppici_任务约束_传球迁移.pdf
+    └── Yiannaki_2025_Futsal_Talent_Development.pdf
 ```
 
 ## 🔍 快速定位方法论
@@ -138,5 +178,7 @@
 | 系统综述 | PRISMA · 4 大数据库 · 叙述性综合 · pp.2-4 |
 | 约束实验 | RCT · U15 · 6 周 · t 检验 · pp.3-6 |
 | 供体理论 | 理论分析 · 生态动力学 · pp.3-8 |
+| Oppici 2019 评论 | 评论综述 · 3项子研究综合 · pp.1-6 |
+| Yiannaki 定性研究 | 半结构化访谈 · 10位双证教练 · 主题分析 · pp.1-9 |
 
 > 查看方式：终端输入 `论文` → 按菜单浏览
