@@ -29,20 +29,7 @@
 
 **🔬 方法论定位：** 准实验设计 | U12-U14 球员 60+ 人 | 8 周干预 | 重复测量 ANOVA | pp.4-7
 
-**📖 引用：**
-```bibtex
-@techreport{oppici2019transfer,
-  title={Transfer of skills from futsal to football in youth players},
-  author={Oppici, Luca and others},
-  year={2019},
-  institution={UEFA Academy},
-  url={https://uefaacademy.com/wp-content/uploads/sites/2/2019/06/20160512_UEFA-RGP_Luca-Oppici_Final-report.pdf}
-}
-```
-
----
-
-### 2. 系统综述：Transfer of Technical and Tactical Skills from Futsal to Soccer
+：Transfer of Technical and Tactical Skills from Futsal to Soccer
 
 | 字段 | 内容 |
 |------|------|
@@ -86,24 +73,41 @@
 
 ---
 
-### 4. 理论分析：Is Futsal a Donor Sport for Football?
+**📖 引用：**
+```bibtex
+@techreport{oppici2019transfer,
+  title={Transfer of skills from futsal to football in youth players},
+  author={Oppici, Luca and others},
+  year={2019},
+  institution={UEFA Academy},
+  url={https://uefaacademy.com/wp-content/uploads/sites/2/2019/06/20160512_UEFA-RGP_Luca-Oppici_Final-report.pdf}
+}
+```
+
+---
+
+### 2. 系统综述
 
 | 字段 | 内容 |
 |------|------|
-| 作者 | Keith Davids et al. (2013) |
-| 来源 | Sheffield Hallam University |
+| 作者 | Bruno Travassos, Duarte Araújo & Keith Davids (2018) |
+| 来源 | *Science and Medicine in Football*, 2(1), 66–70 |
+| DOI | 10.1080/24733938.2017.1390322 |
 | 原文 | [SHU Archive](http://shura.shu.ac.uk/16934/1/Davids-%20IsFutsalaDonorSportForFootball%28AM%29.pdf) |
+| 精读笔记 | `摘要精读/04_Travassos_etal_2018_Donor_Sport.md` ✅ |
 
-**中文摘要：** 理论论文，论证五人制作为足球"供体运动"的有效性。五人制造就更多触球（>2倍）和决策机会（>3倍），迁移机制是共享任务约束而非共享表面行为。
+**中文摘要：** 生态动力学评论论文，论证五人制作为足球"供体运动"的理论基础。核心创新在于引入**互补性迁移**概念——迁移不要求特异性对应，而是通过共享任务约束下的感知-行动耦合实现。五人制小场高密度对抗创造丰富可供性景观（>2倍触球，>3倍决策机会），在早期多样化阶段扩展球员的知觉-运动版图。
 
-**英文摘要：** Theoretical paper arguing futsal as an effective 'donor sport' for football. Futsal provides >2x touches and >3x decision opportunities. Transfer mechanism: shared task constraints, not shared surface behaviors.
+**英文摘要：** Ecological dynamics commentary arguing futsal's theoretical basis as a 'donor sport' for football. Core innovation: **complementarity of transfer** — skill transfer does not require specificity of surface behaviors, but emerges through shared perception-action couplings under similar task constraints. Futsal's small-sided, high-density format creates a rich affordance landscape that enriches the perceptual-motor landscape during early diversification.
 
 **🔑 关键发现：**
 - 🧠 生态动力学 × 约束导向训练（Newell 模型）
+- 🔄 **互补性迁移 > 特异性迁移** — 核心理论创新
 - ⚽ 触球频率 >2 倍，决策机会 >3 倍
-- 🔄 迁移机制：共享任务约束
+- 🏟️ 早期多样化（多运动采样）优于早期专业化
+- 👁️ 教练应强调信息约束而非孤立技术
 
-**🔬 方法论定位：** 理论分析 | 生态动力学框架 | pp.3-8
+**🔬 方法论定位：** 评论性观点论文 (Commentary) | 生态动力学框架 | *Sci Med Football* | pp.1–5 (全篇 5 页)
 
 ---
 
@@ -163,7 +167,9 @@
 │   ├── oppici-constraints.md
 │   ├── davids-donor.md
 │   ├── 03_Oppici_etal_2019_Commentary.md
-│   └── 2026-05-13_检索结果.md
+│   ├── 04_Travassos_etal_2018_Donor_Sport.md
+│   ├── 2026-05-13_检索结果.md
+│   └── 2026-05-13_中文+位置检索结果.md
 └── 全文PDF/
     ├── Oppici_UEFA_五人制技能迁移报告.pdf
     ├── Oppici_任务约束_传球迁移.pdf
@@ -177,7 +183,7 @@
 | UEFA 报告 | 准实验 · U12-U14 · 重复测量 ANOVA · pp.4-7 |
 | 系统综述 | PRISMA · 4 大数据库 · 叙述性综合 · pp.2-4 |
 | 约束实验 | RCT · U15 · 6 周 · t 检验 · pp.3-6 |
-| 供体理论 | 理论分析 · 生态动力学 · pp.3-8 |
+| 供体理论 | 评论性观点论文 · 生态动力学 · *Sci Med Football* · pp.1–5 |
 | Oppici 2019 评论 | 评论综述 · 3项子研究综合 · pp.1-6 |
 | Yiannaki 定性研究 | 半结构化访谈 · 10位双证教练 · 主题分析 · pp.1-9 |
 
