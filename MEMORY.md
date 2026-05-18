@@ -31,5 +31,6 @@
 - Windows: Python 3.12 venv，VS Build Tools 2022
 
 ## 当前阻塞
-- 学舟后端无法连接 DeepSeek API（报 Internal Server Error 的 HTML 返回）
-- 用户 curl 测试报 "Authentication Fails (governor)" — 疑似网络层面拦截
+- 学舟出题 API 返回 HTTP 500 (Internal Server Error)，尚未定位到具体异常
+- `test-connection` 端点正常，DeepSeek 可达
+- 已部署全局 JSON 异常处理器，下次启动可捕获完整 traceback
