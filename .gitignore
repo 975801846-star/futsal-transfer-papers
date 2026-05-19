@@ -2,9 +2,6 @@
 __pycache__/
 *.pyc
 
-# PDF 文件（二进制大文件，不推送到 GitHub）
-全文PDF/*.pdf
-
 # 系统文件
 .DS_Store
 Thumbs.db
