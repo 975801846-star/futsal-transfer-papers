@@ -1,6 +1,6 @@
 # 📚 五人制→足球技能迁移 · 论文知识库
 
-> 更新时间：2026-05-13 | 共 8 篇论文（5 篇已精读）
+> 更新时间：2026-05-19 | 共 9 篇论文（7 篇已精读）
 
 ---
 
@@ -145,12 +145,50 @@
 
 ---
 
-### 6-7. 待补充的论文
+### 6. SSG 任务约束与创造性动作涌现（de Joode et al. 2023）
+
+| 字段 | 内容 |
+|------|------|
+| 作者 | Tom de Joode, John van der Kamp, Geert J.P. Savelsbergh (2023) |
+| 来源 | *Psychology of Sport and Exercise*, 69, 102502 |
+| DOI | 10.1016/j.psychsport.2023.102502 |
+| PMID | 37665937 |
+| OA | 📖 CC BY 4.0 |
+| 精读笔记 | `摘要精读/06_deJoode_etal_2023_Task_Constraints_Creative_Actions.md` ✅ |
+
+**中文摘要：** 240 名 10–12 岁荷甲青训精英球员，对比 4v4 SSG (49 场) 与 11v11 RSG (4 场)，共分析 7922 个动作。首创「专家判断 + 量化频率」混合创造力识别法（0.5% 频率阈值），发现 4v4 SSG 中创造性动作出现概率是 11v11 的 **4.2 倍**，证实创造性动作不是在头脑中生成的，而是在允许变异性的环境中涌现的。
+
+**English Abstract:** Compared 4v4 SSG vs 11v11 RSG among 240 elite youth players (10–12 yrs) from a Dutch premier league academy, analyzing 7,922 actions. Introduced a novel hybrid creativity identification method combining expert judgement with quantitative frequency count (0.5% threshold). Results showed 4v4 SSG induced 4.2× more creative actions than 11v11, supporting the ecological dynamics proposition that creative actions emerge in environments that grant action variability.
+
+**🔑 关键发现：**
+- 🧪 4v4 SSG → 创造性动作发生率 = 11v11 的 4.2 倍
+- 🎯 总动作量 SSG: +48% (Mdn 102 vs 69, r = .70)
+- 📊 动作多样性 SSG 更高（更多不同动作类型, r = .26–.37）
+- 🔬 方法论创新：混合创造力识别法（CAT 专家共识 × 0.5% 频率阈值）
+- ⚽ 生态动力学框架：创造性来自环境可供性，不是个体属性
+
+**🔬 方法论定位：** 观察性对比设计 | 240 名 U10-U12 精英球员 | 4v4 vs 11v11 | Mann-Whitney U | 32 动作类型编码 | ICC=.84 | pp.1–7
+
+**📖 引用：**
+```bibtex
+@article{deJoode2023examining,
+  title={Examining the effect of task constraints on the emergence of creative action in young elite football players by using a method combining expert judgement and frequency count},
+  author={de Joode, Tom and van der Kamp, John and Savelsbergh, Geert J P},
+  journal={Psychology of Sport and Exercise},
+  volume={69},
+  pages={102502},
+  year={2023},
+  doi={10.1016/j.psychsport.2023.102502}
+}
+```
+
+---
+
+### 7. 待补充的论文
 
 | # | 论文 | 原因 |
 |---|------|------|
-| 6 | Modified Ball Influence on Transfer | 🔒 付费墙 |
-| 7 | ResearchGate 归档版 | 已含在 #3 中 |
+| 7 | Modified Ball Influence on Transfer | 🔒 付费墙 |
 
 ---
 
@@ -169,6 +207,7 @@
 │   ├── 03_Oppici_etal_2019_Commentary.md
 │   ├── 04_Travassos_etal_2018_Donor_Sport.md
 │   ├── 2026-05-13_检索结果.md
+│   ├── 06_deJoode_etal_2023_Task_Constraints_Creative_Actions.md
 │   └── 2026-05-13_中文+位置检索结果.md
 └── 全文PDF/
     ├── Oppici_UEFA_五人制技能迁移报告.pdf
@@ -186,5 +225,6 @@
 | 供体理论 | 评论性观点论文 · 生态动力学 · *Sci Med Football* · pp.1–5 |
 | Oppici 2019 评论 | 评论综述 · 3项子研究综合 · pp.1-6 |
 | Yiannaki 定性研究 | 半结构化访谈 · 10位双证教练 · 主题分析 · pp.1-9 |
+| de Joode 创造力 SSG | 观察性对比 · U10-U12 · 4v4 vs 11v11 · Mann-Whitney · 混合创造力法 · pp.1–7 |
 
 > 查看方式：终端输入 `论文` → 按菜单浏览
