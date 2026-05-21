@@ -1,6 +1,6 @@
 # 📚 五人制→足球技能迁移 · 论文知识库
 
-> 更新时间：2026-05-19 | 共 9 篇论文（7 篇已精读）
+> 更新时间：2026-05-21 | 共 10 篇论文（8 篇已精读）
 
 ---
 
@@ -184,7 +184,46 @@
 
 ---
 
-### 7. 待补充的论文
+### 7. Mini Review：SSG 触球限制对四维表现的影响（Rumpf et al. 2025）
+
+| 字段 | 内容 |
+|------|------|
+| 作者 | Michael C. Rumpf, Joscha Jäger, Stefan Altmann, Matthias Lochmann (2025) |
+| 来源 | *Frontiers in Sports and Active Living*, 7 |
+| DOI | 10.3389/fspor.2025.1705921 |
+| PMID | 41163665 |
+| OA | 📖 CC BY 4.0 |
+| 精读笔记 | `摘要精读/05_Rumpf_etal_2025_Touch_Restriction_SSG.md` ✅ |
+
+**中文摘要：** Mini Review，系统梳理 1-touch / 2-touch / free-touch 限制对 SSG 生理、体能、技术和战术四维表现的影响。成人中触球限制 → ↑HR/RPE/冲刺跑/HIR，但同时 ↑失误率；青少年出现反向体能效应（↓总距离）；战术维度仅 2 篇研究，证据极其匮乏。
+
+**English Abstract:** Mini review on effects of touch restrictions (1-touch/2-touch/free-touch) during SSG on physiological, physical, technical and tactical performance. In adults, touch restrictions increase HR, RPE, sprinting, HIR but also errors; youth show opposite physical effects (↓total distance); tactical evidence limited to 2 studies.
+
+**🔑 关键发现：**
+- 📈 生理：1-touch/2-touch → ↑%HRReserve, ↑RPE, ↑血乳酸（free < 2-touch < 1-touch 趋势）
+- ⚡ 体能(成人)：↑冲刺, ↑HIR, ↑加速度 >4 m/s²，但步行时间也 ↑（间歇性负荷增强）
+- 🔄 体能(青少年 U9-U15)：**反向效应** — ↓总距离, ↓跑动（无法维持比赛节奏）
+- ⚽ 技术：↑传球总数和参与度，但 ↑失误率和丢球次数
+- 🧠 战术：2 篇研究 — 2-touch → ↓进攻穿透, ↑空间利用宽度/长度, ↓防守覆盖但 ↑防守统合性
+- 👶 年龄调节：U9-U13 建议 2-touch；U15+ 可用 1-touch
+
+**🔬 方法论定位：** Mini Review（叙述性综述）| 非系统综述 | 四维框架 | pp.1–7
+
+**📖 引用：**
+```bibtex
+@article{rumpf2025touch,
+  title={Touch restriction during small-sided games in soccer—effects on physiological, physical and technical and tactical performance},
+  author={Rumpf, Michael C and Jäger, Joscha and Altmann, Stefan and Lochmann, Matthias},
+  journal={Frontiers in Sports and Active Living},
+  volume={7},
+  year={2025},
+  doi={10.3389/fspor.2025.1705921}
+}
+```
+
+---
+
+### 8. 待补充的论文
 
 | # | 论文 | 原因 |
 |---|------|------|
@@ -206,6 +245,7 @@
 │   ├── davids-donor.md
 │   ├── 03_Oppici_etal_2019_Commentary.md
 │   ├── 04_Travassos_etal_2018_Donor_Sport.md
+│   ├── 05_Rumpf_etal_2025_Touch_Restriction_SSG.md
 │   ├── 2026-05-13_检索结果.md
 │   ├── 06_deJoode_etal_2023_Task_Constraints_Creative_Actions.md
 │   └── 2026-05-13_中文+位置检索结果.md
@@ -226,5 +266,6 @@
 | Oppici 2019 评论 | 评论综述 · 3项子研究综合 · pp.1-6 |
 | Yiannaki 定性研究 | 半结构化访谈 · 10位双证教练 · 主题分析 · pp.1-9 |
 | de Joode 创造力 SSG | 观察性对比 · U10-U12 · 4v4 vs 11v11 · Mann-Whitney · 混合创造力法 · pp.1–7 |
+| Rumpf 触球限制 SSG | Mini Review · 四维框架(生理+体能+技术+战术) · 叙述性综述 · 成人与青少年对比 · pp.1–7 |
 
 > 查看方式：终端输入 `论文` → 按菜单浏览
