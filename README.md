@@ -1,6 +1,6 @@
 # 📚 五人制→足球技能迁移 · 论文知识库
 
-> 更新时间：2026-05-21 | 共 10 篇论文（8 篇已精读）
+> 更新时间：2026-05-22 | 共 11 篇论文（9 篇已精读）
 
 ---
 
@@ -269,3 +269,19 @@
 | Rumpf 触球限制 SSG | Mini Review · 四维框架(生理+体能+技术+战术) · 叙述性综述 · 成人与青少年对比 · pp.1–7 |
 
 > 查看方式：终端输入 `论文` → 按菜单浏览
+
+---
+
+### 13. Nunes et al. (2020) — 场地尺寸操纵对不同年龄组 SSCG 体能+技术的影响
+
+| 字段 | 内容 |
+|------|------|
+| 作者 | Nuno Nunes, Bruno Gonçalves, Keith Davids, Pedro Esteves, Bruno Travassos |
+| 来源 | *Research in Sports Medicine* (2020) |
+| DOI | 10.1080/15438627.2020.1770760 |
+| 精读笔记 | `摘要精读/13_Nunes_etal_2020_Pitch_Dimensions_SSCG_Age.md` ✅ |
+| 本地文档 | `全文PDF/Nunes_etal_2020_Pitch_Dimensions_SSCG_Age.docx` ✅ |
+
+**中文摘要：** 探究 4v4 控球 SSG 中场地尺寸（20×15m / 25×20m / 30×25m）对 U11/U15/U23 球员体能和技术动作的差异化约束。大场地显著增加 U11 外部负荷，U23 在小场地传球频率更高。年龄越小，场地操纵的影响越大。引入 affordance-effectivity 框架解释：同一约束对不同能力个体提供不同可供性，是技能迁移研究中场地约束机制的核心理论支撑。
+
+**🔬 方法论定位：** 重复测量实证 · U11/U15/U23 × 3 场地 · GPS+RPE · ANOVA · pp.1–15
