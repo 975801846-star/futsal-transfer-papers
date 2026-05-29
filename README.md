@@ -1,6 +1,6 @@
 # 📚 五人制→足球技能迁移 · 论文知识库
 
-> 更新时间：2026-05-22 | 共 11 篇论文（9 篇已精读）
+> 更新时间：2026-05-29 | 共 12 篇论文（10 篇已精读）
 
 ---
 
@@ -231,6 +231,30 @@
 
 ---
 
+### 8. Yang et al. (2024) — Third-Man-Passing SSG 对无氧供能贡献的影响
+
+| 字段 | 内容 |
+|------|------|
+| 作者 | Woo-Hwi Yang et al. (2024) |
+| 来源 | *International Journal of Sports Physiology and Performance*, 19(11), 1275–1284 |
+| DOI | 10.1123/ijspp.2024-0196 |
+| PMID | 39191379 |
+| 精读笔记 | `摘要精读/05_Yang_etal_2024_Third_Man_Passing_SSG_Anaerobic.md` ✅ |
+
+**中文摘要：** 随机交叉实验 (n=10)，比较常规传球与第三人传球 (third-man-passing) 4v4+GK SSG。两种条件下的 HR、V̇O₂、血乳酸、GPS 变量均无显著差异，但第三人传球 SSG 的磷酸原 (WPCr) 和无氧总供能 (WPCr+WGly) 显著更高 (P<.05)。核心发现：仅改变传球策略规则即可上调无氧供能占比，而外部负荷不变——规则约束与代谢响应之间存在"解耦"效应。
+
+**English Abstract:** Randomized crossover (n=10) comparing regular vs third-man-passing 4v4+GK SSG. No significant differences in HR, V̇O₂, blood lactate, or GPS variables, but third-man-passing SSG induced significantly higher WPCr and WPCr+WGly (P<.05). Key finding: merely modifying passing strategy rule upregulated anaerobic energy contribution without altering external load — a "decoupling" between rule constraints and metabolic response.
+
+**🔑 关键发现：**
+- ⚡ WPCr 和无氧总供能：第三人传球 > 常规传球 (P<.05)
+- 📊 生理 & GPS 变量：两条件间无显著差异
+- 🔄 规则→代谢"解耦"：战术复杂化上调无氧需求，不改变跑动量
+- 🎯 实践建议：第三人传球 SSG 可作为提升无氧能力的定向训练工具
+
+**🔬 方法论定位：** 随机交叉实验 · n=10 受训球员 · 4v4+GK, 35×17m, 6min · PCr-La-O₂ 供能推算法 · pp.1275–1284
+
+---
+
 ## 📁 目录结构
 
 ```
@@ -248,6 +272,7 @@
 │   ├── 05_Rumpf_etal_2025_Touch_Restriction_SSG.md
 │   ├── 2026-05-13_检索结果.md
 │   ├── 06_deJoode_etal_2023_Task_Constraints_Creative_Actions.md
+│   ├── 05_Yang_etal_2024_Third_Man_Passing_SSG_Anaerobic.md
 │   └── 2026-05-13_中文+位置检索结果.md
 └── 全文PDF/
     ├── Oppici_UEFA_五人制技能迁移报告.pdf
@@ -267,6 +292,7 @@
 | Yiannaki 定性研究 | 半结构化访谈 · 10位双证教练 · 主题分析 · pp.1-9 |
 | de Joode 创造力 SSG | 观察性对比 · U10-U12 · 4v4 vs 11v11 · Mann-Whitney · 混合创造力法 · pp.1–7 |
 | Rumpf 触球限制 SSG | Mini Review · 四维框架(生理+体能+技术+战术) · 叙述性综述 · 成人与青少年对比 · pp.1–7 |
+| Yang 第三人传球 SSG | 随机交叉实验 · n=10 受训球员 · 4v4+GK · PCr-La-O₂ 供能法 · pp.1275–1284 |
 
 > 查看方式：终端输入 `论文` → 按菜单浏览
 
