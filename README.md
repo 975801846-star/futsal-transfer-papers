@@ -1,6 +1,6 @@
 # 📚 五人制→足球技能迁移 · 论文知识库
 
-> 更新时间：2026-05-29 | 共 12 篇论文（10 篇已精读）
+> 更新时间：2026-06-05 | 共 14 篇论文（12 篇已精读）
 
 ---
 
@@ -273,7 +273,9 @@
 │   ├── 2026-05-13_检索结果.md
 │   ├── 06_deJoode_etal_2023_Task_Constraints_Creative_Actions.md
 │   ├── 05_Yang_etal_2024_Third_Man_Passing_SSG_Anaerobic.md
+│   ├── 第5篇_Qiao2025_HR_Intensity_Decision_Making_SSG.md
 │   └── 2026-05-13_中文+位置检索结果.md
+├── 本周论文列表.md
 └── 全文PDF/
     ├── Oppici_UEFA_五人制技能迁移报告.pdf
     ├── Oppici_任务约束_传球迁移.pdf
@@ -293,8 +295,50 @@
 | de Joode 创造力 SSG | 观察性对比 · U10-U12 · 4v4 vs 11v11 · Mann-Whitney · 混合创造力法 · pp.1–7 |
 | Rumpf 触球限制 SSG | Mini Review · 四维框架(生理+体能+技术+战术) · 叙述性综述 · 成人与青少年对比 · pp.1–7 |
 | Yang 第三人传球 SSG | 随机交叉实验 · n=10 受训球员 · 4v4+GK · PCr-La-O₂ 供能法 · pp.1275–1284 |
+| Qiao 高HR→决策 SSG | 非控制重复测量 · n=36 U16 · 3v3 × 6条件(场地×得分) · ANOVA+Pearson · pp.522–531 |
 
 > 查看方式：终端输入 `论文` → 按菜单浏览
+
+---
+
+---
+
+### 14. Qiao et al. (2025) — 高心率强度对SSG战术决策与技术准确性的负面影响
+
+| 字段 | 内容 |
+|------|------|
+| 作者 | Wei Qiao, Kai Hua†, Jincheng Zhang, Dingding Song, Jie Li, Xiaolong Chen, Dong Liang (2025) |
+| 来源 | *Journal of Sports Science and Medicine*, 24, 522–531 |
+| DOI | 10.52082/jssm.2025.522 |
+| PMID | 40933338 |
+| OA | ✅ JSSM 开放获取 |
+| 精读笔记 | `摘要精读/第5篇_Qiao2025_HR_Intensity_Decision_Making_SSG.md` ✅ |
+
+**中文摘要：** 36名U16区域级球员，3v3 SSG × 6种条件（3场地尺寸 × 2得分方式），发现控球任务和大场地显著升高HR（p<0.001），小球门促进盘带。HRmean与成功射门负相关（r=−0.346），HR Zone 5%与传球决策指数负相关（r=−0.363）——生理负荷↑→战术决策↓的直接实证，为SSG规则→生理→认知因果链提供关键环节。
+
+**English Abstract:** 36 regional-level U16 players in 3v3 SSG under 6 conditions (3 pitch sizes × 2 scoring methods). Ball possession and larger pitches significantly increased HR (p<0.001); small goals promoted dribbling. HRmean negatively correlated with successful shots (r=−0.346) and HR Zone 5% with passing decision-making (r=−0.363) — direct evidence that elevated physiological load impairs decision-making quality in SSG.
+
+**🔑 关键发现：**
+- 📐 场地尺寸×得分方式对HR和传球存在显著交互效应（p<0.001）
+- 🏃 控球任务：HRmean和HR Zone 5%在所有场地尺寸下均高于小球门（p<0.001）
+- ⚽ 小球门+小场地：盘带成功更多（p<0.001），传球成功更少
+- ⚠️ HRmean ↔ 成功射门：r=−0.346 (p=0.039)；HR Zone 5% ↔ PDM：r=−0.363 (p=0.029)
+- 🧠 教练启示：高强度SSG虽利于体能但可能损害决策质量——需权衡负荷与认知需求
+
+**🔬 方法论定位：** 非控制重复测量 · n=36 U16区域级 · 3v3 × 6条件 · 双因素重复测量ANOVA · Pearson相关 · pp.522–531
+
+**📖 引用：**
+```bibtex
+@article{qiao2025higher,
+  title={Higher Heart Rate Intensity Can Negatively Impact Tactical Decision-Making and Technical Accuracy in Small-Sided Games: A Study on The Effects of Field Size and Scoring Method Manipulation},
+  author={Qiao, Wei and Hua, Kai and Zhang, Jincheng and Song, Dingding and Li, Jie and Chen, Xiaolong and Liang, Dong},
+  journal={Journal of Sports Science and Medicine},
+  volume={24},
+  pages={522--531},
+  year={2025},
+  doi={10.52082/jssm.2025.522}
+}
+```
 
 ---
 
