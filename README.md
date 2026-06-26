@@ -1,6 +1,6 @@
 # 📚 五人制→足球技能迁移 · 论文知识库
 
-> 更新时间：2026-06-05 | 共 14 篇论文（12 篇已精读）
+> 更新时间：2026-06-26 | 共 20 篇论文（20 篇已精读）
 
 ---
 
@@ -259,27 +259,56 @@
 
 ```
 ~/papers/futsal-transfer/
-├── README.md                 ← ★ 本文件（总索引，含全部精读）
+├── README.md                    ← ★ 本文件（总索引）
 ├── 论文启动方案_v1.md
 ├── 论文修改建议_引用替换.md
-├── 摘要精读/
+├── 本周论文列表.md
+├── 浏览论文.sh
+├── 精读笔记/笔记/
 │   ├── oppici-uefa.md
 │   ├── review-systematic.md
 │   ├── oppici-constraints.md
 │   ├── davids-donor.md
 │   ├── 03_Oppici_etal_2019_Commentary.md
 │   ├── 04_Travassos_etal_2018_Donor_Sport.md
+│   ├── 05_Machado_etal_2026_Decision_Making_Scoping_Review.md
 │   ├── 05_Rumpf_etal_2025_Touch_Restriction_SSG.md
-│   ├── 2026-05-13_检索结果.md
-│   ├── 06_deJoode_etal_2023_Task_Constraints_Creative_Actions.md
 │   ├── 05_Yang_etal_2024_Third_Man_Passing_SSG_Anaerobic.md
-│   ├── 第5篇_Qiao2025_HR_Intensity_Decision_Making_SSG.md
-│   └── 2026-05-13_中文+位置检索结果.md
-├── 本周论文列表.md
-└── 全文PDF/
-    ├── Oppici_UEFA_五人制技能迁移报告.pdf
-    ├── Oppici_任务约束_传球迁移.pdf
-    └── Yiannaki_2025_Futsal_Talent_Development.pdf
+│   ├── 05_Yiannaki_etal_2026_Futsal_Talent_Development.md
+│   ├── 06_deJoode_etal_2023_Task_Constraints_Creative_Actions.md
+│   ├── 07_McCalman_etal_2025_SSG_Skilfulness_Assessment.md
+│   ├── 08_Robinson_etal_2024_Hull_Scoring_Tool.md
+│   ├── 09_Machado_etal_2026_Decision_Making_Scoping_Review.md
+│   ├── 10_Ribeiro_etal_2026_Futsal_Talent_Selection.md
+│   ├── 11_Soylu_etal_2025_Mental_Fatigue_SSG.md
+│   ├── 12_Pena-Ardila_2025_Futsal_SSG_Review.md
+│   ├── 13_Nunes_etal_2020_Pitch_Dimensions_SSCG_Age.md
+│   ├── 2_Mendes_2025_Talent_Selection_Portuguese_Futsal.md
+│   ├── 第3篇_Ribeiro_etal_2026_Futsal_Physical_Performance_Talent.md
+│   └── 第4篇.md
+├── 摘要精读/
+│   ├── 第2篇/（Machado + Mendes 精读）
+│   ├── 第3篇_Ribeiro*.md
+│   ├── 第4篇-Rumpf2026_SSG任务约束综述.md
+│   └── 第5篇_Qiao2025_HR_Intensity_Decision_Making_SSG.md
+├── 全文PDF/
+│   ├── Oppici_UEFA_五人制技能迁移报告.pdf
+│   ├── Oppici_任务约束_传球迁移.pdf
+│   ├── Yiannaki_2025_Futsal_Talent_Development.pdf
+│   ├── Mendes_2025_Talent_Selection_Portuguese_Futsal.pdf
+│   ├── Ribeiro_2025_Physical_Match_Performance_Youth_Futsal_Talent.pdf
+│   └── Qiao_et_al_2025_JSSM_SSG_HR_Tactical_Decision.pdf
+├── 论文库/
+│   ├── 全文/（多篇PDF+docx）
+│   ├── 搜索结果/（多期检索记录）
+│   └── 参考文献/
+├── 搜索结果/（多期检索记录）
+├── 学舟出题/
+│   ├── 论文精要/（01-04号论文教学精要）
+│   └── 每周题目/（多期题目）
+└── 研究方案/
+    ├── 研究方案框架_v1/v2.md
+    └── 并行验证报告_2026-05-16.md
 ```
 
 ## 🔍 快速定位方法论
@@ -295,6 +324,10 @@
 | de Joode 创造力 SSG | 观察性对比 · U10-U12 · 4v4 vs 11v11 · Mann-Whitney · 混合创造力法 · pp.1–7 |
 | Rumpf 触球限制 SSG | Mini Review · 四维框架(生理+体能+技术+战术) · 叙述性综述 · 成人与青少年对比 · pp.1–7 |
 | Yang 第三人传球 SSG | 随机交叉实验 · n=10 受训球员 · 4v4+GK · PCr-La-O₂ 供能法 · pp.1275–1284 |
+| Machado 决策能力 ScR | PRISMA-ScR · 6数据库 · 36项研究 · 证据缺口图(EGM) · pp.1–13 |
+| Mendes 五人制人才选拔 | 二元逻辑回归 + 交叉列联表 · n=668葡萄牙五人制球员(1970–2023) · 历史队列 · J Hum Kinet |
+| Ribeiro 五人制体能→人才 | Linear Mixed Models · n=202 U15五人制球员 · NTDP选拔 · ES 0.7–1.7 · Res Q Exerc Sport |
+| Nunes 场地尺寸×年龄 SSCG | 重复测量 · U11/U15/U23 × 3种场地 · GPS+RPE · ANOVA · affordance-effectivity框架 · pp.1–15 |
 | Qiao 高HR→决策 SSG | 非控制重复测量 · n=36 U16 · 3v3 × 6条件(场地×得分) · ANOVA+Pearson · pp.522–531 |
 
 > 查看方式：终端输入 `论文` → 按菜单浏览
