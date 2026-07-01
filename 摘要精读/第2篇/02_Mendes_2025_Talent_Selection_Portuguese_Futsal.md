@@ -1,125 +1,158 @@
-# 02. Talent Selection in Portuguese National Futsal Teams
+# 02_Mendes_2025_Talent Selection in Portuguese National Futsal Teams
 
 ---
 
-## 📋 基本信息
+## 基本信息
 
 | 字段 | 内容 |
 |------|------|
 | **标题** | Talent Selection in Portuguese National Futsal Teams |
-| **作者** | Mendes D, Martinho DV, Travassos B, Gouveia ÉR, Ordoñez Saavedra N, Sarmento H |
+| **作者** | Mendes D, Martinho DV, Travassos B, Gouveia ÉR, Saavedra NO, Sarmento H |
 | **年份** | 2025 |
-| **期刊** | Journal of Human Kinetics, Vol. 99, pp 253–261 |
-| **DOI** | 10.5114/jhk/199379 |
+| **期刊** | Journal of Human Kinetics, Vol. 99, pp. 253–261 |
+| **DOI** | [10.5114/jhk/199379](https://doi.org/10.5114/jhk/199379) |
 | **PMID** | 41245960 |
 | **PMCID** | PMC12612822 |
-| **许可** | CC BY 4.0 |
-| **研究机构** | University of Coimbra (1st), UBI/CIDESD, Portugal Football School, University of Madeira |
-| **资助** | FCT: 2021.04738.BD; CIDESD UID04045/2020 |
-| **研究类型** | 回顾性队列研究 (retrospective cohort) |
-| **样本量** | 668 名男子五人制球员 (1970–2023 注册), 分析 N=539 (排除 <17 岁) |
-| **方法** | 二元逻辑回归 + 交叉表频率分析 |
+| **研究设计** | 回溯性横断面研究 (retrospective cross-sectional) |
+| **样本量** | N = 668（注册于1970–2023年的葡萄牙男子五人制球员）；logistic回归分析 N = 539（排除 <17岁者） |
+| **数据来源** | 葡萄牙足协 (FPF) 官方注册数据库 + FPF官网 + zerozero.pt |
+| **所属线路** | 线A: Futsal 技能迁移 |
 
 ---
 
-## 📝 中文摘要
+## 中文摘要
 
-本研究调查了葡萄牙五人制国家青年队和成年队的人才选拔过程。基于葡萄牙足协(FPF)提供的 668 名男子五人制球员数据库 (1970–2023)，通过二元逻辑回归分析五人制参与变量对达到成年国家队级别(国际 AA)概率的影响。全样本分析(N=539)显示：**更早的首次注册年龄 (OR=1.419)**、**参加葡萄牙甲级联赛 (OR=1.504)**、**海外联赛经历 (OR=1.320)** 以及**多俱乐部经历 (OR=1.143)** 均显著增加入选成年国家队概率。
+本研究考察了葡萄牙五人制足球国家队（青少年至成年）的人才选拔过程。分析基于葡萄牙足协提供的668名男子五人制球员注册数据库（1970–2023），采用二项逻辑回归评估五人制参与变量（首次注册年龄、总赛季数、青年赛季数、第一级别联赛赛季数、次级联赛赛季数、海外赛季数、代表俱乐部数）对入选成年国家队（international AA）概率的影响。
 
-以 1999 年(青年国家队体系建立年份)为分界点进行亚组分析。**1999 年之前**，更早开始五人制与入选成年国家队显著相关；**1999 年之后**，首次注册年龄不再显著预测成年国家队入选，取而代之的是甲级联赛赛季数成为最强预测因子 **(OR=2.399)**。交叉表分析揭示惊人发现：**≤10 岁注册的 144 名球员中，无人达到成年国家队**；而≥19 岁注册的球员中，92% 实现了成年国家队首秀。从 U-17 青年队晋升至成年国家队的比例低于 5%——162 名 U-17 国脚中仅 7 人(4.4%)最终入选成年国家队，超过 90% 的青年国脚从未达到成年级别。
+**总体样本（N=539）** 显示：更早的首次注册年龄（OR=1.419）、更多总赛季数（OR=1.139）、更多第一级别联赛经验（OR=1.504）、海外比赛经历（OR=1.320）以及代表更多俱乐部（OR=1.143）均显著提高入选成年国家队的概率。
 
-研究揭示了葡萄牙五人制体系采用**集体主义选拔策略 (collectivist approach)**，即青年梯队中持续进行选拔-再选拔-淘汰的系统性过程，而非以个体长期培养为核心。这对「五人制作为足球人才供体运动 (donor sport)」的论证具有重要启示：**五人制体系自身面临严重的青年→成年人才流失问题**，青年国家队的建立虽然促进了人才库扩张，但向精英成年级别的转化率极低。
+**关键历史分水岭（1999年）**：以葡萄牙五人制青年国家队体系建立为界，1999年前出生的球员（n=296）中，早期注册与成年国家队入选正相关；**1999年后出生球员（n=243）中，早期注册不再显著增加入选成年国家队的概率**，仅第一级别联赛赛季数（OR=2.399）和总赛季数（OR=1.436）具有预测力。
 
----
-
-## 🔤 English Abstract
-
-This study investigated talent selection processes in Portuguese youth and adult national futsal teams using a database of 668 male futsal players from the Portuguese Football Federation (1970–2023). Binary logistic regressions (N=539) showed that earlier first registration age (OR=1.419), 1st Division participation (OR=1.504), foreign competitions (OR=1.320), and multiple clubs (OR=1.143) increased the likelihood of international adult selection.
-
-Split by the 1999 structural change (establishment of youth national teams): before 1999, earlier registration predicted adult international status; **after 1999, early registration lost significance, while 1st Division seasons became the dominant predictor (OR=2.399)**. Cross-tabulations revealed that **0 of 144 players registered at ≤10 years reached the adult national team**, whereas 92% of those registered at ≥19 years achieved adult internationalization. Among 162 U-17 internationals born after 1999, only 7 (4.4%) progressed to the senior national team; >90% of youth internationals never reached adult level. The findings reveal a **collectivist selection approach** characterized by systematic selection, re-selection, and de-selection across youth age groups, with negligible youth-to-senior conversion.
+更引人注目的是：1999年后，82%的国际球员在 ≤10岁 时首次注册，但**没有人成功晋升至成年国家队**。从 U-17 到成年国家队的晋升率仅约 4%，超 90% 的青年国脚从未进入成年国家队。这一模式揭示了葡萄牙五人制体系采用的**集体主义取向（collectivist approach）**——即通过不断选拔与淘汰而非个体长期培养来运作人才体系。
 
 ---
 
-## 🔑 关键发现
+## English Abstract
 
-### ⭐⭐⭐ 本研究的核心贡献
+This study investigated the talent selection processes implemented in youth and adult national futsal teams. The initial database provided by the Portuguese Football Federation included 668 male futsal players, and statistical analysis was conducted with varying sample sizes. Binary logistic regressions were performed to determine the influence of futsal participation on the likelihood of achieving international status at the adult level. Subsequently, the age of first registration was plotted against the national team in which the first international appearance was recorded. Finally, the selection, re-selection, and de-selection of players from the under-17 youth national team to the adult team were described using frequencies and percentages.
 
-| # | 发现 | 证据强度 |
-|---|------|----------|
-| 1 | **五人制青年→成年国家队晋升率 <5%**：1999年后出生的162名U-17国脚中，仅7人(4.4%)最终进入成年国家队 | 强 — 完整FPF官方数据库 |
-| 2 | **1999年后，早期专项化 ≠ 成年精英成功**：≤10 岁注册者无人达到成年国家队，甲级联赛赛季数(OR=2.399)取代了早期注册年龄成为首要预测因子 | 强 — 二元逻辑回归，大样本 |
-| 3 | **葡萄牙五人制采用集体主义选拔模式**：持续选-再选-淘汰循环，与德国足球青训的collectivist approach一致(Güllich, 2014) | 中 — 描述性证据 + 理论框架 |
-| 4 | **多俱乐部经历 + 海外联赛经历** 是独立于早期注册的促进因素 | 中 — OR 1.14–1.32, p 显著 |
-
-### ⭐⭐ 重要但需验证
-
-| # | 发现 | 备注 |
-|---|------|------|
-| 5 | 甲级联赛赛季数在1999年后成为最强预测因子(OR=2.399)，暗示**竞赛水平(而非起始年龄)决定成败** | 需在不同国家验证 |
-| 6 | 青年国家队建立 → 早期识别率提高(82%在≤10岁注册)，但**转化率反而下降** | 悖论：「选得早 ≠ 培养得好」 |
+**Key results:** For the total sample, an earlier age at first registration, participation in the 1st Division, involvement in foreign competitions, and engagement with multiple clubs increased the likelihood of being selected for the international team. Before 1999, players demonstrated earlier registration ages; however, the timing of starting futsal practice became less relevant to attaining international adult status after 1999. Furthermore, a negligible percentage of youth national team players progressed to the senior national team, highlighting the collectivist approach employed by futsal national coaches. The findings suggest that the transition of talent from youth to adult national teams warrants further investigation. Coaches should develop strategies to promote the development of youth talent as they progress towards adult-level status.
 
 ---
 
-## 🧭 方法论定位
+## 关键发现
 
-### 研究设计: 回顾性队列研究
+### ⭐⭐⭐⭐ 核心发现
+
+1. **早期注册的悖论：** 总体模型中早期注册（更小的年龄）与成年国家队入选正相关（OR=1.419），但1999年后出生的子样本中这一效应消失。这意味着青年国家队体系建立后，早期专项化不再是成年成功的必要条件。
+
+2. **青年→成年晋升率极低：** 1999年后出生的162名青年国脚中，仅7人（~4%）从 U-17 晋升至成年国家队，仅1人从 U-19 晋升。**超90%的青年国脚从未进入成年国家队**——这是"供体运动"论证的核心实证：futsal 青年体系培养了大量球员，但绝大多数未在 futsal 本身达到精英成年水平。
+
+3. **集体主义取向：** 葡萄牙五人制采用"不断选拔-淘汰"而非"个体长期培养"的模式。这与足球学院的人才路径（Ford et al., 2022; Güllich, 2014）一致，但也在五人制中首次以大样本提供实证。
+
+### ⭐⭐⭐ 重要发现
+
+4. **第一级别联赛经验是最强预测因子：** 1999年后出生球员中，第一级别联赛赛季数的OR高达2.399（95% CI: 1.571–3.662），远超其他变量。成年精英水平的入场券主要依靠顶级联赛经验，而非早期年龄组国家队经历。
+
+5. **海外经历的价值：** 海外比赛经历在总体模型（OR=1.320）和1999年前子样本（OR=1.162）中均显著，但1999年后子样本中不显著——可能与青年国家队体系建立后人才在国内路径更完整有关。
+
+6. **多俱乐部经历的正效应：** 代表更多俱乐部提高入选概率（OR=1.143），可能反映了更丰富的竞技暴露和适应能力。
+
+---
+
+## 方法论定位
 
 | 维度 | 评价 |
 |------|------|
-| **数据来源** | 葡萄牙足协(FPF)官方注册数据库 1970–2023 — **高可靠性**，非自报告数据 |
-| **样本代表性** | N=668 覆盖葡萄牙五人制全注册球员，**国家级全量数据** |
-| **统计方法** | 二元逻辑回归 + 交叉表 → 合理但偏描述性 |
-| **时间分界** | 1999年(青年国家队体系建立)作为天然断点 — **合理的研究设计选择** |
-| **局限** | 仅含参与变量(注册年龄、赛季数、联赛级别、俱乐部数)，**缺乏生理/心理/技战术多维指标**；横截面逻辑 → 相关性而非因果推断 |
-
-### 与本研究线A的关联
-
-本论文为「五人制→足球技能迁移」论证提供**人才路径的元层证据**：
-
-- **供体运动的悖论：** 如果五人制体系自身无法有效将青年人才输送至成年精英(≥95% 淘汰率)，那么将其视为足球的"供体运动"时，需要考虑：(1) 淘汰的人才是否流向足球？(2) 五人制本身的青年培养体系是否提供了足以迁移到足球的技能基础？
-- **早期专项化假设受挑战：** 1999 年后 ≤10 岁注册者无人达成年国家队 → 对于主张通过早期五人制参与培养足球决策能力的论点(Bielsa 式 futsal → football)提出了一个需要回答的问题
-- **竞赛水平＞起始年龄：** 暗示研究所关注的迁移效应可能更应聚焦**高水平五人制竞赛经验**(甲级联赛、国际赛事)而非单纯的早期参与
-
-### 与本周其他论文的关系
-
-- **论文1** (Machado 2026, 决策能力范围综述) → 五人制-SSG 训练形式对决策的效应
-- **本文2** (Mendes 2025) → 五人制人才体系的结构性困境
-- **论文3** (Ribeiro 2025) → 五人制竞技负荷指标预测 U-15 人才选拔
-
-三者构成一条逻辑链：训练效应(Machado) → 体系转化率(Mendes) → 选拔指标(Ribeiro)
+| **研究设计** | 回溯性横断面，基于FPF官方注册数据（非自陈报告——优于Serrano et al., 2013） |
+| **统计方法** | 二项逻辑回归 + 交叉列联表 + 频率/百分比描述 |
+| **样本质量** | ⭐⭐⭐⭐ 大样本（668人），覆盖1970–2023年，历史跨度极大 |
+| **时间分层** | ⭐⭐⭐⭐ 以1999年（青年国家队体系建立）为关键分界点，设计合理 |
+| **外部效度** | ⭐⭐⭐ 单国（葡萄牙），但葡萄牙是五人制强国，研究具有参考价值 |
+| **局限性** | 1) 仅纳入参与变量，缺乏体能/心理/社会文化等多维数据；2) 横断面设计无法建立因果；3) 未控制相对年龄效应(RAE)；4) 未区分位置差异 |
+| **对迁移研究的价值** | ⭐⭐⭐⭐⭐ — 直接提供 futsal 作为"供体运动"的关键证据：大量球员在五人制接受训练，但极少达到 futsal 精英成年水平。这意味着这些被淘汰的球员构成了向其他运动（包括十一人制足球）迁移的潜在人才库。 |
 
 ---
 
-## 📚 BibTeX
+## 与本论文库的关联
+
+### 线A (Futsal 技能迁移) 定位
+
+本文直接回应了 futsal→足球技能迁移论证中的**"供体运动"前提**：
+
+- 五人制青年体系培养了大量球员
+- 但五人制自身的精英通道极度狭窄（<4% 晋升率）
+- 大量被淘汰的五人制受训球员去向何处？——部分必然流向十一人制足球或其他运动
+- 这与 Yiannaki et al. (2018) 的发现一致：精英足球教练广泛认可 futsal 作为培养多功能球员的有效手段
+
+### 与本周其他论文的关系
+
+| 论文 | 内容 | 与本文关系 |
+|------|------|------------|
+| #1 Machado (2026) | SSG/非线性训练→足球决策能力 范围综述 | 共同回答"futsal为什么能促进足球技能"——Machado从感知-认知机制，本文从人才路径结构 |
+| #3 Ribeiro (2025) | U-15五人制体能指标→NTDP选拔 | 同为葡萄牙五人制人才识别研究，Ribeiro关注体能预测因子，本文关注结构性晋升率 |
+
+---
+
+## BibTeX
 
 ```bibtex
 @article{mendes2025talent,
-  title     = {Talent Selection in {Portuguese} National Futsal Teams},
-  author    = {Mendes, Diogo and Martinho, Diogo V. and Travassos, Bruno and
-               Gouveia, {\'{E}}lvio R. and Ordo{\~{n}}ez Saavedra, Nestor and
-               Sarmento, Hugo},
-  journal   = {Journal of Human Kinetics},
-  volume    = {99},
-  pages     = {253--261},
-  year      = {2025},
-  month     = oct,
-  doi       = {10.5114/jhk/199379},
-  pmid      = {41245960},
-  pmcid     = {PMC12612822},
-  keywords  = {elite players, indoor soccer, long-term athlete development, talent promotion}
+  title = {Talent Selection in {Portuguese} National Futsal Teams},
+  author = {Mendes, Diogo and Martinho, Diogo V. and Travassos, Bruno and 
+            Gouveia, {\'E}lvio R. and Saavedra, Nestor Ordo{\~n}ez and 
+            Sarmento, Hugo},
+  year = {2025},
+  journal = {Journal of Human Kinetics},
+  volume = {99},
+  pages = {253--261},
+  doi = {10.5114/jhk/199379},
+  pmid = {41245960},
+  pmcid = {PMC12612822}
 }
 ```
 
 ---
 
-## 📌 审读笔记
+## 精读笔记
 
-**对安同学的启示：**
+### 研究问题
 
-1. **硕士论文选题角度：** 如果你研究「五人制技能向十一人制迁移」，这篇论文给出了一个关键变量需要考虑——五人制参与的质量(联赛级别、国际赛事经历)比起始年龄更重要。把"从几岁开始踢五人制"换成"在什么级别踢五人制"。
+1. 哪些五人制参与变量能区分最终进入成年国家队（international AA）的球员？
+2. 葡萄牙五人制青年→成年国家队的人才流动率（turnover）如何？
 
-2. **供体运动论证的 nuance：** 不能简单地说「五人制培养的人才到足球里好用」。需要考虑两个系统各自的人才流失问题。葡萄牙五人制≥95%的青年国脚无法达到成年精英——这些被淘汰的人去哪了？是否流向足球？这是一个潜在的实证研究问题。
+### 核心数据点
 
-3. **数据来源的标杆：** FPF 官方注册数据库的利用方式值得关注。如果你在中国做类似研究，中国足协的五人制注册数据是一个潜在来源——如果能获取的话。
+| 指标 | 总体 (N=539) | 1999年前 (n=296) | 1999年后 (n=243) |
+|------|-------------|-------------------|-------------------|
+| 首次注册年龄 OR | 1.419 *** | 1.298 *** | n.s. |
+| 总赛季数 OR | 1.139 *** | n.s. | 1.436 * |
+| 第一级别联赛赛季 OR | 1.504 *** | 1.345 *** | 2.399 *** |
+| 海外赛季 OR | 1.320 *** | 1.162 * | n.s. |
+| 俱乐部数 OR | 1.143 *** | n.s. | — |
 
-4. **论文质量评价：** 研究设计简洁但有力——利用天然历史断点(1999年)做准实验设计，结合完整行政数据库。方法论上没有炫技但论证清晰，适合作为硕士论文中文献综述部分「人才发展体系」的参考。
+\* p < .05, \** p < .01, \*** p < .001
+
+### 晋升率数据（1999年后出生）
+
+- U-17 → U-19: 48人（29.6%）
+- U-17 → U-21: 19人（11.7%）
+- U-17 → AA: **7人（4.3%）**
+- U-19 → AA: **1人（0.6%）**
+- 从未进入成年队: >90%
+
+### 历史背景
+
+1999年葡萄牙足协建立了完整的五人制青年国家队体系（U-15/U-17/U-19/U-21），此前仅有成年、U-23和U-19三支队伍。这一结构变革使更小年龄的球员被纳入国家队视野，但也导致了更剧烈的"过早识别→后期淘汰"现象。
+
+### 对迁移研究的启示
+
+五人制→足球技能迁移的论证通常依赖两条线索：
+1. **机制线索**（Machado #1）：小场地、高触球频率、快速决策→感知-认知能力提升
+2. **结构线索**（本文 Mendes #2）：五人制精英通道极度狭窄→大量受训人才必然外溢
+
+本文为线索2提供了迄今为止最强的大样本实证。
+
+---
+
+*精读日期: 2026-07-01 | 工具: PubMed efetch + PMC full-text XML*
